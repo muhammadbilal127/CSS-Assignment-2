@@ -1,0 +1,29 @@
+.parent{
+ background-color:black;   
+    margin: 0px;
+padding :10px ;
+width: 20%;
+
+}
+h1{
+    background-color: white;
+    padding: 0px 
+}
+ul{
+    color: white;
+    text-align: center;
+}
+b,h2,h1{
+color: red;
+}
+body{
+    background-color: lightgray;
+margin: 0px;
+padding: 0px;
+}
+
+    
+
+
+
+
